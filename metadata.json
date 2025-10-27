@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Speech Translator",
+  "description": "A real-time speech translation application using Google's Gemini Live API to translate speech from one language to another with low latency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
